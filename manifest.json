@@ -1,0 +1,23 @@
+{
+  "name": "AI Image Prompt Generator",
+  "short_name": "Prompt Gen",
+  "description": "Buat prompt gambar yang detail dan terstruktur dengan mudah menggunakan bantuan AI.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
